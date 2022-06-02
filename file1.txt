@@ -1,0 +1,5 @@
+Def function_name(true,false)
+	Return function_name 
+print ("this function is working good")
+ function_name
+
